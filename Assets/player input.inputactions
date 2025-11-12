@@ -3,7 +3,7 @@
     "name": "player input",
     "maps": [
         {
-            "name": "New action map",
+            "name": "player",
             "id": "a3824984-dcd1-4acc-ae30-e3804cdbaa33",
             "actions": [
                 {
